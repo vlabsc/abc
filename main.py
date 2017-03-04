@@ -3,5 +3,7 @@
 
 print " Hello, World! "
 print " + -------------------------------------- +"
-print " this line added in GitHub.com "
-
+print " +                                        +"
+print " +         A Custom Port Scanner          +"
+print " +                                        +"
+print " + -------------------------------------- +"
